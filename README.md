@@ -1,7 +1,7 @@
 # Car Boking App✨
 The Weather Forecast App gives you the most accurate world-leading global weather forecast.
 
-![car_booking_sc](https://github.com/Prachip9767/Car-Booking-App/assets/86509987/280e1803-667f-4510-82e8-52c7ea054d50)
+![Cream and Green Simple Photo Sales Marketing Presentation](https://github.com/Prachip9767/Car-Booking-App/assets/86509987/de7ec750-5851-48d3-994d-f742adaceeed)
 
 
 # Click On Demo✨
